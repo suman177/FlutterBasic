@@ -1,0 +1,20 @@
+{
+    "totalBoxesMessage" : "Total No of Boxes to be displayed on each side",
+    "maxSelection": "Max no of Total Selections allowed for selecting on both the side",
+    "maxAlpha": "Max no of Alphabets allowed for selecting",
+    "maxNumber": "Max no of Numbers allowed for selecting",
+    "errorMessage1": "Unable to select as Max No of Alphabet reached",
+    "errorMessage2": "Unable to select as Max No of Numbers reached",
+    "errorMessage3": "Unable to select as Max No of Selections reached",
+    "errorMessage4S1": "You cannot enter value more than ",
+    "errorMessage4S2": " in Max No of Selections",
+    "errorMessage5S1": "You cannot enter value more than ",
+    "errorMessage5S2": " in Max No of Alphabets",
+    "errorMessage6S1": "You cannot enter value more than ",
+    "errorMessage6S2": " in Max No of Numbers",
+    "errorMessage7": "Only Max of 11 select boxes can be Created, enter value less than or equal to 11",
+    "resetMessage": "Resets All Value To '0'",
+    "successMessage": "Success",
+    "errorMessage": ""
+
+}
